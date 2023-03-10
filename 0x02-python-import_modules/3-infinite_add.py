@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# 3-infinite_add.py
+# maiangaruiya <003paulmaina@gmail.com>
 
 if __name__ == "__main__":
     """Print the addition of all arguments."""
