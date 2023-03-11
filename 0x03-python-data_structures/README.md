@@ -1,1 +1,1 @@
-read me
+working with list in python
